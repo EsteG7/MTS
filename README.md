@@ -33,7 +33,5 @@ Mettez les ID des propriétaires du bot !
 ## Serveur
 
 > Rejoignez notre serveur discord pour avoir de l'aide !
-[Chronal](https://discord.gg/DhHNhND3WP)
+[Développement France](https://discord.gg/D4ZmrctRaN)
 
-> Chronal Bot 
-[GitHub](https://github.com/ChronalBot/Chronal)
